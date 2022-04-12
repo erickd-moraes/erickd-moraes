@@ -1,7 +1,9 @@
 ### Olá, Pessoal! 
 
 #### 💬 Sobre mim
-Aficionado com desenvolvimento WEB e formado em Sistemas de Informação pela Universidade de Sorocaba (UNISO). Dedico meu tempo para me aprofundar nesse universo e adquirir cada vez mais conhecimento em suas principais tecnologias.
+Aficionado com desenvolvimento WEB e formado em Sistemas de Informação pela Universidade de Sorocaba (UNISO). Dedico meu tempo para me aprofundar nesse universo e adquirir cada vez mais conhecimento em suas principais tecnologias.<br><br>
+Conto com 2 ano de experiência profissional na área e 3 anos de estudos relacionados a desenvolvimento front-end, com uma boa base de conhecimento em Javascript ES6+, ReactJS, Styled-Components, HTML5, CSS3, SASS, web responsivo e frameworks UI.<br><br>
+Além disso, também estou estudando NodeJS para ter um conhecimento, ao menos básico, sobre back-end.
 
 ##
 
